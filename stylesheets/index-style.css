@@ -1,0 +1,22 @@
+header, body, footer {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: auto;
+}
+
+a {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+a:hover {
+  color: grey !important;
+}
