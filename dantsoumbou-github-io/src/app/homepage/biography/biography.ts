@@ -4,6 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-biography',
   imports: [],
   templateUrl: './biography.html',
-  styleUrl: './biography.css',
+  styleUrls: ['./biography.css', '../common.css']
 })
 export class Biography {}

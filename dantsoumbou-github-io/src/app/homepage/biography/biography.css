@@ -1,0 +1,9 @@
+#bio-div {
+  width: 80%;
+  /*border: 2px solid black;*/
+  word-wrap: break-word;
+}
+
+p {
+  text-align: left;
+}
